@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica;
+    background: blue;
+    color: white;
+}
+p,li {
+    font-size: 18px;
+
+}
+h2 {
+    font-size: 30px;
+    color: orange;
+}
+h3 {
+    font-size: 24px;
+}
+a:link {color:#FFDDDD;}
+a:visited {color:#DDAAAA;}
+a:hover {color:#FF0000;}
